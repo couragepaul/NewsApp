@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">newsApp</string>
+    <string name="published_date_t">Published Date:\t</string>
+    <string name="headline_t">Headline:\t</string>
+    <string name="description_t">Description:\t</string>
+    <string name="author_t">Author:\t</string>
+    <string name="no_description">No description found</string>
+    <string name="network">Network</string>
+    <string name="no_internet">Oops, you are not connected to the internet! Try again?</string>
+    <string name="no_author">No Author Found</string>
+    <string name="type_t">Type:\t</string>
+    <string name="title_activity_bottom_nav">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
